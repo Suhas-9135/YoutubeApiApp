@@ -47,6 +47,7 @@ As environment setup, Python and MySQL should be installed in the environment to
         -> Search for "ChannelId", you will receive something like
               "channelId":"Uvxgvdchb-dhvhdcvs"
         -> Copy the channel_id to save it to clipboard.
+        -> Sample channel id's can be found in "Sample_id.txt" file.
 2. Paste the channel id inside the text box and click on "Add" to get a channel preview.
 3. Add upto 10 channel to the list on whom analysis is to be done.
       If you want to remove a channel from the list, click on "Remove <channel name> from the list".
