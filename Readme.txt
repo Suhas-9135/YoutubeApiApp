@@ -73,5 +73,8 @@ As environment setup, Python and MySQL should be installed in the environment to
 Hope you find this YoutubeChannel data analysis application useful. The application use does not end here as the application code can be
   tweaked a little to perform more complex quries as per your need to get appropriate data results.
 Link to DemoVideo can be found in DemoVideo.txt file!
-  
+
+Linkedin post: https://www.linkedin.com/posts/suhas-kure-2163601a6_github-suhas-9135youtubeapiapp-activity-7068306960617508864-4LXA?utm_source=share&utm_medium=member_desktop
+DemoVideo: https://drive.google.com/file/d/1egfCuMJpIbIBDazEJih6Uq_e1N_W40f-/view
+
 ----Happy coding----
