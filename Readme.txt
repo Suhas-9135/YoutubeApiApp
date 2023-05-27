@@ -6,7 +6,7 @@ and answering few basic questions below:-
 -> What are the top 10 most viewed videos and their respective channels?
 -> How many comments were made on each video, and what are their corresponding video names?
 -> Which videos have the highest number of likes, and what are their corresponding channel names?
--> What is the total number of likes and dislikes for each video, and what are their corresponding video names?
+-> What is the total number of likes for each video, and what are their corresponding video names?
 -> What is the total number of views for each channel, and what are their corresponding channel names?
 -> What are the names of all the channels that have published videos in the year 2022?
 -> What is the average duration of all videos in each channel, and what are their corresponding channel names?
@@ -28,7 +28,7 @@ As environment setup, Python and MySQL should be installed in the environment to
 1.  Extreact this repository files into a folder where your python virtueal environment will run.
 2. Place "main.py", "libraries.txt" file in a folder and inside that folder create a "pages" folder and paste "page2.py" and "page3.py" in it.
 3. Open command terminal in the folder where libraries.txt is kept and run
-          "pip install -r libraries.py"
+          "pip install -r libraries.txt"
     This will install all the required libraries to run this application in your python venv.
 4. Now run
           "streamlit run main.py"
